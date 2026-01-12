@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-game-
-just for fun 
+just for fun , i make this game 
